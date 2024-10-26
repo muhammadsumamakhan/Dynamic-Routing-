@@ -5,7 +5,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import AdbIcon from '@mui/icons-material/Adb';
 import profilePic from '../assets/images/Profile.jpg';
 
-const pages = ['home', 'login', 'products'];
+const pages = ['home', 'login', 'register','products'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function ResponsiveAppBar() {
